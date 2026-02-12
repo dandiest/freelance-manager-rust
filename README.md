@@ -24,3 +24,9 @@ A simple Command Line Interface (CLI) tool designed to manage freelance projects
 3. Run the project using:
    ```bash
    cargo run
+
+## ⚖️ License & Copyright
+
+Copyright (©) 2026 **dandiest**
+
+This project is licensed under the **MIT License**. You are free to use, study, and modify this code for educational purposes.
