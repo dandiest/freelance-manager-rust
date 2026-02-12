@@ -1,8 +1,16 @@
-# 🦀 Freelance Manager Rust
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  <img src="https://img.shields.io/badge/language-Rust-orange.svg" />
+  <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" />
+</p>
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![Rust](https://img.shields.io/badge/language-Rust-orange.svg) ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
+<h1 align="center">🦀 Freelance Manager Rust</h1>
 
-A simple Command Line Interface (CLI) tool designed to manage freelance projects and track their progress. This project was built to practice the core concepts of the Rust programming language.
+<p align="center">
+  A simple Command Line Interface (CLI) tool designed to manage freelance projects.
+</p>
+
+---
 
 ## ⚠️ Disclaimer
 
