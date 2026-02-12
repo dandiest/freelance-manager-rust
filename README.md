@@ -1,5 +1,7 @@
 # 🦀 Freelance Manager Rust
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 A simple Command Line Interface (CLI) tool designed to manage freelance projects and track their progress. This project was built to practice the core concepts of the Rust programming language.
 
 ## ⚠️ Disclaimer
@@ -30,3 +32,4 @@ A simple Command Line Interface (CLI) tool designed to manage freelance projects
 Copyright (©) 2026 **dandiest**
 
 This project is licensed under the **MIT License**. You are free to use, study, and modify this code for educational purposes.
+View 
